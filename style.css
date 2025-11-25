@@ -68,6 +68,10 @@ body {
     margin-top: 20px;
     font-size: 18px;
     color: #7a42f4;
+
+    max-height: 250px;
+    overflow-y: auto;
+    padding-right: 10px;
 }
 
 /* Confetti */
@@ -88,3 +92,4 @@ body {
     0% { transform: translateY(0) rotate(0deg); }
     100% { transform: translateY(110vh) rotate(360deg); }
 }
+
