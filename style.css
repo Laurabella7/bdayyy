@@ -17,9 +17,6 @@ body {
     border-radius: 22px;
     box-shadow: 0 10px 25px rgba(0,0,0,0.1);
     width: 330px;
-
-    max-height: 90vh;
-    overflow-y: auto;
 }
 
 /* Question */
@@ -95,5 +92,6 @@ body {
     0% { transform: translateY(0) rotate(0deg); }
     100% { transform: translateY(110vh) rotate(360deg); }
 }
+
 
 
