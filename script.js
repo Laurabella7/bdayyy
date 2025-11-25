@@ -68,5 +68,9 @@ Once again Happy Birthday, Keysha Putri Pratama! 🌟
 Semoga hari ini dan seterusnya selalu dipenuhi cinta, tawa, dan vibes lilac yang cantik banget 💜💜💜
 `;
 
+    result.scrollTop = 0; 
+    result.scrollTop = result.scrollHeight;
+
     startConfetti();
+
 });
